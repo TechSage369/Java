@@ -20,7 +20,7 @@ int []array; //creating an array
 int n,i;
 boolean condition;
 
-System.out.print("\nEnter the umber of an element: ");
+System.out.print("\nEnter the number of an element: ");
  n= input.nextInt(); //input number of element in an array
  array=new int[n];
 System.out.println("-----------------------------------------\n");
