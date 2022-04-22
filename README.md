@@ -1,2 +1,2 @@
 # Java
- My lessons
+ This all are my school practices
